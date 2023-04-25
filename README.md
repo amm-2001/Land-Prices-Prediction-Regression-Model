@@ -1,4 +1,4 @@
-# Land-Prices-Prediction-Regression-Model
+# Land-Prices-Regression-Model
 
 This model has been built using random forest algorithm and it's job is to predict a land price in saudi arabia cities using the Land Market in Saudi Arabia Dataset.
 
